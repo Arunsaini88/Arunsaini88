@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on to develop web application in django and django rest framework.
 - 📫 How to reach me on as9389872806@gmail.com.
 - 😄 Pronouns: Dev
-- ⚡ Fun fact: Coding is a fun
+- ⚡ Fun fact: 
 
 <!---
 Arunsaini88/Arunsaini88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
